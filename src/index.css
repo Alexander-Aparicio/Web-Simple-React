@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0;}
+html{box-sizing: border-box; scroll-behavior: smooth; font-size: 10px;}
+*,*::after, *::before{box-sizing: inherit; -webkit-tap-highlight-color: rgba(0,0,0,0);}
+a{text-decoration: none;}
+button,input,select{border-style: none; outline: inherit;}
+button,select,input[type="submit"]{cursor: pointer;}
+header,main,footer{width: 100%;}
+.swiper-button-prev,.swiper-button-next{
+    color:#c83067 !important;
+}
+body{background-color: #fff;}
+.priceSD{
+    text-decoration:line-through;
+}
+@media (min-width:733px){
+    .talleresV{
+        text-align:center !important;
+    }
+}
+
