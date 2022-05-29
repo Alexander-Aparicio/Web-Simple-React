@@ -19,7 +19,7 @@ const InformesH = styled(Div)`
     max-width:650px;
 `
 const TitleH = styled(TitleH3)`
-    align: left;
+    text-align: left;
     padding: 0px 6%;
     margin: 0px 0px;
 `

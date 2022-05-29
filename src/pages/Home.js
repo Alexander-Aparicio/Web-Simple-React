@@ -6,8 +6,8 @@ import Inscripciones from "../components/Inicio/Inscripciones";
 import MediosDePago from "../components/Inicio/MediosDePagos";
 import Metodologia from "../components/Inicio/Metodologia";
 import Precios from "../components/Inicio/Precios";
-import PreciosTalleresV from "../components/Inicio/PreciosTalleresDeVerano";
-import TalleresDeVerano from "../components/Inicio/TalleresDeVerano";
+// import PreciosTalleresV from "../components/Inicio/PreciosTalleresDeVerano";
+// import TalleresDeVerano from "../components/Inicio/TalleresDeVerano";
 import { Page } from "../helpers/Elementos";
 import PreguntasFrecuentes from "../components/Inicio/PreguntasFrecuentes";
 import Nosotros from "../components/Inicio/NosotrosComponents";
@@ -21,8 +21,8 @@ const Home = ()=>{
 
         <Page padding='0%'>
             <Banner />
-            <TalleresDeVerano />
-            <PreciosTalleresV />
+            {/* <TalleresDeVerano />
+            <PreciosTalleresV /> */}
             <Academia />
             <Metodologia />
             <Precios />

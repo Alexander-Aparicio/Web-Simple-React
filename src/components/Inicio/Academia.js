@@ -21,10 +21,12 @@ const Academia = () =>{
 
             <TitleH align={'left'}>Horarios:</TitleH>
             <Horario
-                miercoles="04:30 pm - 6:00 pm"
-                viernes="04:30 pm - 6:00 pm"
-                sabados="3:00 pm - 4:30 pm  4:30 pm - 6:00 pm"
-                domingos="10:00 am - 11:30 am"
+                martes={"7:00 pm - 8:30 pm"}
+                miercoles={"04:30 pm - 6:00 pm"}
+                jueves={"7:00 pm - 8:30 pm"}
+                viernes={"04:30 pm - 6:00 pm"}
+                sabados={"3:00 pm - 4:30 pm  4:30 pm - 6:00 pm"}
+                domingos={"10:00 am - 11:30 am"}
             />
             
             </InformesH>

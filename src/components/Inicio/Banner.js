@@ -52,10 +52,10 @@ const Banner = ()=>{
 
                     <Diapositiva>
 
-                        <MainTitleD>Talleres de verano 2022</MainTitleD>
+                        <MainTitleD>¡Horarios nocturnos!</MainTitleD>
 
                         <ContenidoD>
-                            Diversión y desarrollo psicomotriz para tus hijos.
+                            Martes y jueves de 7:00 pm a 8:30 pm.
                         </ContenidoD>
 
                     </Diapositiva>
@@ -90,11 +90,10 @@ const Banner = ()=>{
 
                     <Diapositiva>
 
-                        <MainTitleD>¡Promociones: 20% y 25% dto!</MainTitleD>
+                        <MainTitleD>¡Promociones: 10% y 20% dto!</MainTitleD>
 
                         <ContenidoD>
-                            Inscribete junto a un amigo o familiar y ahorra un 20% o 25%.<br/>
-                            
+                            Inscribete junto a un amigo o familiar y ahorra un 10% y 20%.<br/>
                         </ContenidoD>
 
                     </Diapositiva>
