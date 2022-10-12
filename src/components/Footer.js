@@ -1,16 +1,17 @@
-import { BoxFooter, Desarrollador, TextFooter } from "./FooterComponents"
+import { BoxFooter, Desarrollador, TextFooter } from "./FooterComponents";
 
-const Footer = ()=>{
+const Footer = () => {
+  return (
+    <BoxFooter>
+      <TextFooter>
+        2021 Revolution Sport | Desarrollado por
+        <Desarrollador href="https://my-portafolio-pi.vercel.app/">
+          {" "}
+          Aparicio Meza
+        </Desarrollador>
+      </TextFooter>
+    </BoxFooter>
+  );
+};
 
-    return(
-        <BoxFooter>
-            <TextFooter>
-                2021 Revolution Sport | Desarrollado por 
-                <Desarrollador href='https://rokeweb-peru.com'> Roke Web Perú</Desarrollador>
-            </TextFooter>
-        </BoxFooter>
-    )
-
-}
-
-export default Footer
+export default Footer;
