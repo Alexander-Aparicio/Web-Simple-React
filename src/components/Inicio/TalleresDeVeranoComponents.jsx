@@ -24,13 +24,13 @@ const ContenidoT = styled(P)`
 `
 const HorarioTalleresV = styled(Div)`
 display:grid;
-grid-template-comlumns: repeat(auto-fit, 200px);
+grid-template-columns: repeat(auto-fit, 350px);
 grid-gap:20px;
 margin-top:25px;
 margin-bottom:25px;
 align-items:start;
 @media (min-width: 733px){
-    grid-template-columns: repeat(auto-fit, 250px); 
+    grid-template-columns: repeat(auto-fit, 350px); 
     margin-top:revert;
     margin-bottom:revert;
     padding: 1.5% 6%;
@@ -47,7 +47,7 @@ background-color:#FFD151;
 border-radius:7px;
 padding-top: 10px;
 padding-bottom:10px;
-max-width:250px;
+max-width: ${props => props.type ? props.type : ''};
 justify-content:center;
 `
 const DayV = styled(P)`

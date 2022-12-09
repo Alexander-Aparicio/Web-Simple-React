@@ -28,7 +28,7 @@ const Academia = () => {
           miercoles={"05:00 pm - 6:30 pm 07:00 pm - 8:30 pm"}
           // jueves={"7:00 pm - 8:30 pm"}
           viernes={"05:00 pm - 6:30 pm  07:00 pm - 8:30 pm"}
-          sabados={"3:00 pm - 4:30 pm  4:30 pm - 6:00 pm"}
+          sabados={"3:30 pm - 5:00 pm  5:00 pm - 6:30 pm"}
           domingos={"10:00 am - 11:30 am"}
         />
       </InformesH>

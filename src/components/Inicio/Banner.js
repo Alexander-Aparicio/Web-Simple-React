@@ -54,9 +54,11 @@ const Banner = () => {
             alt="Golpre de revés"
           >
             <Diapositiva>
-              <MainTitleD>¡Horarios nocturnos!</MainTitleD>
+              <MainTitleD>¡Horarios variados!</MainTitleD>
 
-              <ContenidoD>Miércoles y viernes de 7:00 pm a 8:30 pm.</ContenidoD>
+              <ContenidoD>
+                Lunes, miércoles, viernes, sábados y domingos.
+              </ContenidoD>
             </Diapositiva>
           </MySlide>
         </SwiperSlide>
@@ -68,7 +70,7 @@ const Banner = () => {
             alt="Alumno Casio"
           >
             <Diapositiva>
-              <MainTitleD>¿Estas en duda si es para ti?</MainTitleD>
+              <MainTitleD>¡Desarrolla tu velocidad de reacción!</MainTitleD>
 
               <ContenidoD>
                 Te invitamos a una clase sin compromiso de inscripción.
@@ -84,10 +86,10 @@ const Banner = () => {
             alt="Mini torneos"
           >
             <Diapositiva>
-              <MainTitleD>¡Promociones: 10% y 20% dto!</MainTitleD>
+              <MainTitleD>Talleres de Verano 2023</MainTitleD>
 
               <ContenidoD>
-                Inscribete junto a un amigo o familiar y ahorra un 10% y 20%.
+                ¡Promociones: 10% y 20% dto! Aprovecha y separa tu vacante.
                 <br />
               </ContenidoD>
             </Diapositiva>

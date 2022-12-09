@@ -8,23 +8,21 @@ const TalleresDeVerano = ()=>{
 
             <BoxT>
 
-                <TitleT className="talleresV">Talleres de Verano 2022</TitleT>
+                <TitleT className="talleresV">Talleres de Verano 2023</TitleT>
 
                 <ContenidoT align="justify">
-                    El niño desarrollará sus habilidades de concentración 
-                    , coordinación y agilidad. Va adquirir habilidades básicas 
-                    del tenis de mesa para el desarrollo de la técnica.
+                    Orientado a niños y adolescentes, se desarrollará la concentración, coordinación y agilidad. Va adquirir habilidades básicas para desarrollar la técnica del tenis de mesa. Es perfecto para los que por primera vez recibiran clases por un entrenador de la disciplina.
                 </ContenidoT>
 
-                <TitleT align="center" className="talleresV">Inicio 11 de enero</TitleT>
+                <TitleT align="center" className="talleresV">Inicio 04 de enero</TitleT>
 
-                <TitleT align="center" className="talleresV">Horario</TitleT>
+                {/* <TitleT align="center" className="talleresV">Horario</TitleT> */}
 
                 <HorarioTalleresV>
 
-                <HorarioV className="h2"><DayV>Martes-Jueves</DayV>
+                <HorarioV className="h2" type={'500px'}><DayV>Lunes - Miércoles - Viernes</DayV>
                     <HoraV>
-                        <strong></strong>10:30 am - 11:30 am<br /> 
+                        <strong></strong>9:00 am - 10:00 am<br />10:15 am - 11:15 am 
                     </HoraV>
                 </HorarioV>
                     
